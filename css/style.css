@@ -1,0 +1,25 @@
+.clear{
+    clear: both;
+}
+#inCorrect, #correct , #finish , #quiz , .alert{
+    display: none;
+}
+svg{
+position: relative;
+bottom: 0px !important;
+}
+
+body{
+    background: linear-gradient(to bottom right,
+     rgb(47, 165, 197),rgb(255, 218, 224),
+    rgb(221, 221, 221),rgb(133, 228, 255),
+     rgb(221, 221, 221), rgb(196, 247, 255),
+     rgb(221, 221, 221),rgb(220, 255, 255),
+     rgb(255, 208, 216));
+    margin: 75px;
+    background-size: cover;
+    background-position: 100%;
+    background-repeat: no-repeat;
+}
+
+
